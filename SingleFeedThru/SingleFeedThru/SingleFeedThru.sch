@@ -19,7 +19,7 @@ U 1 1 60E99FD7
 P 4500 3200
 F 0 "J1" H 4418 4692 50  0000 C CNN
 F 1 "DB25_Male" H 4418 4601 50  0000 C CNN
-F 2 "Connector:MicroD_25Pin_NorComp" H 4500 3200 50  0001 C CNN
+F 2 "Connector:Norcomp-380-025-113L001-microd_Updated" H 4500 3200 50  0001 C CNN
 F 3 " ~" H 4500 3200 50  0001 C CNN
 	1    4500 3200
 	-1   0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 60E9E821
 P 5100 3200
 F 0 "J2" H 5018 4692 50  0000 C CNN
 F 1 "DB25_Male" H 5018 4601 50  0000 C CNN
-F 2 "Connector:MicroD_25Pin_NorComp" H 5100 3200 50  0001 C CNN
+F 2 "Connector:Norcomp-380-025-113L001-microd_Updated" H 5100 3200 50  0001 C CNN
 F 3 " ~" H 5100 3200 50  0001 C CNN
 	1    5100 3200
 	1    0    0    -1  

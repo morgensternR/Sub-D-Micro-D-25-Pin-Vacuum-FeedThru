@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\Cir\\Documents\\GitHub\\Sub-D Micro-D 25 Pin Vacuum FeedThru\\SingleFeedThru\\SingleFeedThru\\SingleFeedThru.sch")
-    (date "7/1/2021 1:47:52 PM")
+    (date "7/7/2021 11:26:15 AM")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,14 +17,14 @@
   (components
     (comp (ref J1)
       (value DB25_Male)
-      (footprint Connector:MicroD_25Pin_NorComp)
+      (footprint Connector:Norcomp-380-025-113L001-microd_Updated)
       (datasheet " ~")
       (libsource (lib Connector) (part DB25_Male) (description "25-pin male D-SUB connector"))
       (sheetpath (names /) (tstamps /))
       (tstamp 60E99FD7))
     (comp (ref J2)
       (value DB25_Male)
-      (footprint Connector:MicroD_25Pin_NorComp)
+      (footprint Connector:Norcomp-380-025-113L001-microd_Updated)
       (datasheet " ~")
       (libsource (lib Connector) (part DB25_Male) (description "25-pin male D-SUB connector"))
       (sheetpath (names /) (tstamps /))
