@@ -5,9 +5,9 @@
     {
       "Vendor":      "KiCad",
       "Application": "Pcbnew",
-      "Version":     "(5.1.9)-1"
+      "Version":     "(5.1.10)-1"
     },
-    "CreationDate":  "2021-07-21T23:40:00-06:00"
+    "CreationDate":  "2022-06-07T13:25:47-06:00"
   },
   "GeneralSpecs":
   {
@@ -32,7 +32,7 @@
       "PadToPad":  0.080,
       "PadToTrack":  0.080,
       "TrackToTrack":  0.080,
-      "MinLineWidth":  0.090,
+      "MinLineWidth":  0.130,
       "TrackToRegion":  0.200,
       "RegionToRegion":  0.200
     }
@@ -47,6 +47,16 @@
     {
       "Path":  "Sub-D Micro-D 25 Pin Vacuum FeedThru-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "Sub-D Micro-D 25 Pin Vacuum FeedThru-F_Adhes.gbr",
+      "FileFunction":  "Glue,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "Sub-D Micro-D 25 Pin Vacuum FeedThru-B_Adhes.gbr",
+      "FileFunction":  "Glue,Bot",
       "FilePolarity":  "Positive"
     },
     {

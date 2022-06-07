@@ -2,7 +2,7 @@
 %TF.CreationDate,2022-06-07T13:25:47-06:00*%
 %TF.ProjectId,Sub-D Micro-D 25 Pin Vacuum FeedThru,5375622d-4420-44d6-9963-726f2d442032,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Top*%
+%TF.FileFunction,Glue,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
