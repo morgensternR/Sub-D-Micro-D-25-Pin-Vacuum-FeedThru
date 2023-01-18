@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*
-G04 #@! TF.CreationDate,2022-09-27T11:09:55-06:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.6)*
+G04 #@! TF.CreationDate,2023-01-18T13:06:51-07:00*
 G04 #@! TF.ProjectId,Double_MicroD_25_Gateway,446f7562-6c65-45f4-9d69-63726f445f32,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.5)) date 2022-09-27 11:09:55*
+G04 Created by KiCad (PCBNEW (6.0.6)) date 2023-01-18 13:06:51*
 %MOMM*%
 %LPD*%
 G01*
@@ -16,6 +16,6 @@ G04 APERTURE END LIST*
 D10*
 X-12275000Y3860000D03*
 X12275000Y3800000D03*
-X12275000Y-3800000D03*
 X-12275000Y-3740000D03*
+X12275000Y-3800000D03*
 M02*

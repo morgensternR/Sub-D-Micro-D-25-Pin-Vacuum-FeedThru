@@ -22,7 +22,7 @@ F 1 "DB25_Female" H 6380 3705 50  0000 L CNN
 F 2 "0_Double_MicroD_25_Gateway:Norcomp-380-025-113L001-microd_Updated" H 6200 3750 50  0001 C CNN
 F 3 " ~" H 6200 3750 50  0001 C CNN
 	1    6200 3750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector:DB25_Female J1
@@ -44,7 +44,7 @@ F 1 "DB25_Female" H 8230 3655 50  0000 L CNN
 F 2 "0_Double_MicroD_25_Gateway:Norcomp-380-025-113L001-microd_Updated" H 8050 3700 50  0001 C CNN
 F 3 " ~" H 8050 3700 50  0001 C CNN
 	1    8050 3700
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector:DB25_Female J3
